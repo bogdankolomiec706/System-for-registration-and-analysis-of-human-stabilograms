@@ -1,0 +1,2 @@
+# System-for-registration-and-analysis-of-human-stabilograms
+Systems is composed from hardware and software parts. Open-source Arduino platform is used as microcontroller. Metrological evaluation of platform performance was made. GUI application was build using Matlab. Application has three functional modules available for platform calibration, recording and analysis. Developed system enables researchers to study COP evolution, clinicians to quantitatively assess balance and to diagnose possible balance problems on early stage.
